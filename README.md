@@ -1,5 +1,5 @@
 # dsi-project3
-DSI Project 3 - Web API &amp; Classification
+DSI Project 3 - Classification of Sub-Reddit Posts (Artificial Intelligence, Machine Learning)
 
 # Problem Statement
 For this project, we will be using Reddit's API to collect posts from two subreddits and then use NLP to train a classifier on which subreddit a given post came from. This is a binary classification problem. Correct classification of posts in the forum is crucial as it enables users to be able to find the right information in the right place.
